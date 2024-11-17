@@ -218,7 +218,7 @@ function Update:Window(keybind)
 	ttittles.Position = UDim2.new(0,30,0.05,0)
 	ttittles.Size = UDim2.new(0, 255, 0.05, 25)
 	ttittles.Font = Enum.Font.SourceSansBold
-	ttittles.Text = "Naoki Hub (REAL)"
+	ttittles.Text = "အမှတ်-၈ hub"
 	ttittles.TextSize = 17.000
 	ttittles.TextColor3 = Color3.fromRGB(0, 178, 238)
 	ttittles.TextXAlignment = Enum.TextXAlignment.Left
